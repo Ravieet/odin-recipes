@@ -82,3 +82,7 @@ h3.ingredients-subtitle{
     margin: 20px 0px;
     padding: 10px;
 }
+.button:hover{
+    background-color:rgb(247, 239, 209);
+    border: 5px solid white;
+}
